@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.5.8)  20 SEP 2019 13:18
+This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.5.8)  23 OCT 2019 17:00
  restricted system commands enabled.
  file:line:error style messages enabled.
 **resume.tex
@@ -49,7 +49,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.046 seconds
+luaotfload | main : initialization completed in 0.049 seconds
 (./mcdowellcv.cls
 Document Class: mcdowellcv 2017/06/18 v1.2.0 McDowell CV class
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
@@ -758,7 +758,7 @@ Here is how much of LuaTeX's memory you used:
  510 words of node memory still in use:
    7 hlist, 2 vlist, 3 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 52 glue_spec,
  8 attribute_list, 1 write nodes
-   avail lists: 2:767,3:240,4:5,5:150,6:61,7:4001,8:8,9:339,10:4,11:277
+   avail lists: 2:740,3:233,4:5,5:144,6:60,7:4045,8:8,9:332,10:4,11:285
  20312 multiletter control sequences out of 65536+600000
  69 fonts using 16720383 bytes
  59i,16n,110p,793b,539s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -766,7 +766,7 @@ Here is how much of LuaTeX's memory you used:
 sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr
 /local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
 cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on resume.pdf (2 pages, 98438 bytes).
+Output written on resume.pdf (2 pages, 100194 bytes).
 
 PDF statistics: 37 PDF objects out of 1000 (max. 8388607)
  23 compressed objects within 1 object stream
