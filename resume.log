@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.5.8)  9 NOV 2019 20:57
+This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2019.5.8)  11 NOV 2019 10:52
  restricted system commands enabled.
  file:line:error style messages enabled.
 **resume.tex
@@ -49,7 +49,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.069 seconds
+luaotfload | main : initialization completed in 0.059 seconds
 (./mcdowellcv.cls
 Document Class: mcdowellcv 2017/06/18 v1.2.0 McDowell CV class
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
@@ -746,7 +746,7 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman(0)/m/sc' undefined
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] (./resume.aux)
+(./resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -758,15 +758,15 @@ Here is how much of LuaTeX's memory you used:
  510 words of node memory still in use:
    7 hlist, 2 vlist, 3 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 52 glue_spec,
  8 attribute_list, 1 write nodes
-   avail lists: 2:720,3:230,4:6,5:131,6:56,7:3764,8:1,9:318,10:4,11:262
+   avail lists: 2:721,3:228,4:5,5:128,6:55,7:3784,8:1,9:317,10:4,11:262
  20312 multiletter control sequences out of 65536+600000
  69 fonts using 16720383 bytes
  59i,16n,110p,793b,539s stack positions out of 5000i,500n,10000p,200000b,100000s
 </Library/Fonts/Times New Roman Bold.ttf></Library/Fonts/Times New Roman.ttf>
-Output written on resume.pdf (2 pages, 76788 bytes).
+Output written on resume.pdf (1 page, 76295 bytes).
 
-PDF statistics: 25 PDF objects out of 1000 (max. 8388607)
- 14 compressed objects within 1 object stream
+PDF statistics: 22 PDF objects out of 1000 (max. 8388607)
+ 12 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
